@@ -8,7 +8,7 @@ Testa il gioco direttamente nel tuo browser:
 * [**Programiz**](https://www.programiz.com/online-compiler/81ZaBBS5oRCQS)
 
 Oppure testa la versione web:
-* [**Sito live**](https://samuelefrasca.github.io/MontyHall-Simulator/)
+* [**Sito live**](https://montyhall.pages.dev/)
 * [**Repository**](https://github.com/samuelefrasca/MontyHall-Simulator)
 ---
 
